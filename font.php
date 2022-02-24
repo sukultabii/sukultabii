@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("");
+        src: url("ChocolateteehaypaiTEST.ttf");
       }
       #font1{
         font-family: "MyFont1";
