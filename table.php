@@ -19,7 +19,7 @@
       <tr>
         <td>2</td>
         <td>จีซู</td>
-        <td><img src="https://f.ptcdn.info/685/074/000/qyr2brq05ukVJF1mDij-o.jpg" width="45px"></td>
+        <td><img src="https://entertain.teenee.com/kpop/img8/1796171.jpg" width="45px"></td>
         <td><a href="https://twitter.com/blackpink">Twitter</a></td> 
       </tr>
       <tr>
@@ -28,6 +28,17 @@
         <td><img src="https://www.pinkvilla.com/imageresize/haruto_main.png?width=752&format=webp&t=pvorg" width="45px"></td>
         <td><a href="https://twitter.com/treasuremembers">Twitter</a></td> 
       </tr>
+      <tr>
+        <td>4</td>
+        <td>ชูก้า</td>
+        <td><img src="https://popcornfor2.com/upload/115/news-full-114763.jpg" width="45px"></td>
+        <td><a href="https://twitter.com/BTS_twt">Twitter</a></td> 
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>โรเซ่</td>
+        <td><img src="https://jelly-site.s3.amazonaws.com/uploads/ckeditor/pictures/26909/content_cd42ffd5989b80cf9ad2307cd2a498fec_19222598_190808_0001.jpg" width="45px"></td>
+        <td><a href="https://twitter.com/blackpink">Twitter</a></td>   
       </tr>
     </table>
   </body>
