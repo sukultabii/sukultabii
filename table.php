@@ -13,7 +13,7 @@
       <tr>
         <td>1</td>
         <td>จอน จองกุก</td>
-        <td><img src="https://images.app.goo.gl/iqB9yX1jp2zr7xeN8" width="45px"></td>
+        <td><img src="https://images.app.goo.gl/6szRQJG2fkHFhAzH7" width="45px"></td>
         <td><a href="https://twitter.com/BTS_twt">Twitter</a></td>
       </tr>
     </table>
