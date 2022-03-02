@@ -5,14 +5,16 @@
   <body>
     <table border="1">
       <tr>
-        <td>คอลัมน์ที่ 1</td>
-        <td>คอลัมน์ที่ 2</td>
-        <td>คอลัมน์ที่ 3</td>
+        <th>ลำดับ</th>
+        <th>ชื่อ</th>
+        <th>รูปภาพ</th>
+        <th>twitter</th>
       </tr>
       <tr>
-        <td>คอลัมน์ที่ 1</td>
-        <td>คอลัมน์ที่ 2</td>
-        <td>คอลัมน์ที่ 3</td>
+        <td>1</td>
+        <td>จอน จองกุก</td>
+        <td><img src="https://images.app.goo.gl/iqB9yX1jp2zr7xeN8" width="45px"></td>
+        <td><a href="https://twitter.com/BTS_twt">Twitter</a></td>
       </tr>
     </table>
   </body>
