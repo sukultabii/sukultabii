@@ -19,7 +19,7 @@
       <tr>
         <th>2</th>
         <th>จีซู</th>
-        <td><img src="https://www.brighttv.co.th/entertain/%e0%b9%88jisoo-blackpink-yg" width="45px"></td>
+        <td><img src="https://blackpinkupdate.com/scan-blackpink-jisoo-from-kill-this-love-mini-album-photobook/9-scan-jisoo-blackpink-kill-this-love-album-photobook/#main" width="45px"></td>
         <td><a href="https://twitter.com/blackpink">Twitter</a></td> 
       </tr>
       <tr>
