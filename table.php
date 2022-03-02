@@ -19,7 +19,7 @@
       <tr>
         <td>2</td>
         <td>จีซู</td>
-        <td><img src="https://pin.it/4odtvSo" width="45px"></td>
+        <td><img src="https://f.ptcdn.info/685/074/000/qyr2brq05ukVJF1mDij-o.jpg" width="45px"></td>
         <td><a href="https://twitter.com/blackpink">Twitter</a></td> 
       </tr>
       <tr>
