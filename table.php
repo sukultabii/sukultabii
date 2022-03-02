@@ -19,7 +19,7 @@
       <tr>
         <td>2</td>
         <td>จีซู</td>
-        <td><img src="https://blackpinkupdate.com/scan-blackpink-jisoo-from-kill-this-love-mini-album-photobook/9-scan-jisoo-blackpink-kill-this-love-album-photobook/#main" width="45px"></td>
+        <td><img src="https://pin.it/4odtvSo" width="45px"></td>
         <td><a href="https://twitter.com/blackpink">Twitter</a></td> 
       </tr>
       <tr>
