@@ -23,7 +23,7 @@
         <td><a href="https://twitter.com/blackpink">Twitter</a></td> 
       </tr>
       <tr>
-        <th>2</th>
+        <th>3</th>
         <th>ฮารุโตะ</th>
         <td><img src="https://www.pinkvilla.com/imageresize/haruto_main.png?width=752&format=webp&t=pvorg" width="45px"></td>
         <td><a href="https://twitter.com/treasuremembers">Twitter</a></td> 
