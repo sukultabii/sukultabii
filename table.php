@@ -31,7 +31,7 @@
       <tr>
         <td>4</td>
         <td>ชูก้า</td>
-        <td><img src="https://popcornfor2.com/upload/115/news-full-114763.jpg" width="45px"></td>
+        <td><img src="https://lh3.googleusercontent.com/h_UJWhh552pPOGWvonuxbJQtWjz5pYcjT4mq9b4URGqYoxwgnwqVhX_cK43J33_IxyJfiRQAmsqnKI88-EuEU3b0cl8NR7eZdg=w1600-nu-rj-l80-e365" width="45px"></td>
         <td><a href="https://twitter.com/BTS_twt">Twitter</a></td> 
       </tr>
       <tr>
