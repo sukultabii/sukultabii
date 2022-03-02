@@ -17,14 +17,14 @@
         <td><a href="https://twitter.com/BTS_twt">Twitter</a></td>
       </tr>
       <tr>
-        <th>2</th>
-        <th>จีซู</th>
+        <td>2</td>
+        <td>จีซู</td>
         <td><img src="https://blackpinkupdate.com/scan-blackpink-jisoo-from-kill-this-love-mini-album-photobook/9-scan-jisoo-blackpink-kill-this-love-album-photobook/#main" width="45px"></td>
         <td><a href="https://twitter.com/blackpink">Twitter</a></td> 
       </tr>
       <tr>
-        <th>3</th>
-        <th>ฮารุโตะ</th>
+        <td>3</td>
+        <td>ฮารุโตะ</td>
         <td><img src="https://www.pinkvilla.com/imageresize/haruto_main.png?width=752&format=webp&t=pvorg" width="45px"></td>
         <td><a href="https://twitter.com/treasuremembers">Twitter</a></td> 
       </tr>
